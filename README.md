@@ -1,4 +1,4 @@
-# Toogle
+# Toogle- A Terminal Based Google Search Engine
 
 
 ## Overview
@@ -56,7 +56,6 @@ Feel free to contribute to this project by opening issues or submitting pull req
 This script is for educational purposes and uses the Google search engine. Ensure compliance with Google's terms of service when using this script.
 
 Happy searching!
-```
 
 
  
